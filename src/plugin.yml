@@ -1,0 +1,8 @@
+main: kits.Main.Main
+name: SimpleKits
+author: GoRoK
+version: 1.0
+commands:
+  kit:
+    usage: /<command>
+    description: Gives you a Kit.
